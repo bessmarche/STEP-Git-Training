@@ -5,7 +5,7 @@ Practice project to learn Git and GitHub
 Aim of this training session: to familiarise oneself with Git and Github.
 
 Learning objectives:
-	Create new branches
-	Create a pull request
-	Merge pull requests
-	Pull from master
+	Create new branches<br/>
+	Create a pull request<br/>
+	Merge pull requests<br/>
+	Pull from master<br/>
